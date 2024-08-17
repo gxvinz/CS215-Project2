@@ -1,0 +1,5 @@
+4
+3333 Teresa Thompson 4 25 30 42 50 88 100 8 10
+4444 Freddy Frogett  4 18 30 22 50 71 100 7 10
+5555 Suzy Q          3 27 30 88 100 8 10
+7777 Loretta Lynch   4  5 30 48 50 72 100 6 10
